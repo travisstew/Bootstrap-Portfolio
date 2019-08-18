@@ -1,0 +1,32 @@
+p{
+  line-height: 2;
+}
+body{
+  background: url(../css/what-the-hex\ copy.png)
+}
+#footer{
+  background:  #777777;
+  border-top: thick solid #4aaaa5;
+}
+#abt-nav{
+  background: #777777;
+}
+#name{
+  color: #4aaaa5;
+  border-bottom: solid thin #777777;
+}
+
+@media (max-width: 767.98px) {
+
+  #abt-img{
+    width:100%;
+  }
+  #fig-img{
+    width: 500px;
+  }
+}
+@media(max-width:640px){
+  #fig-img{
+    width: 500px;
+  }
+}
